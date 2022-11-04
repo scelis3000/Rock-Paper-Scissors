@@ -1,7 +1,6 @@
 const choices = ["rock", "paper", "scissors"];
 const winners = [];
-
-//play game
+//play game h
 //play five rounds
 //console based
 function game() {
